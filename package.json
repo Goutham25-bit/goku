@@ -1,0 +1,13 @@
+{
+  "name": "goutham-portfolio",
+  "version": "1.0.0",
+  "description": "Goutham's personal portfolio website with a Node.js backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0"
+  }
+}
